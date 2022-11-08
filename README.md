@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 ![Fuzzing](https://img.shields.io/badge/-Fuzzing-333333?style=flat&logo=fuzz)
 ![Taint analysis](https://img.shields.io/badge/-Taint_analysis-333333?style=flat&logo=taint)
-![Symbolic execution](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Firmware rehost](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Reverse Engineering](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![Instrumentation](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Symbolic execution](https://img.shields.io/badge/-Symbolic_execution-333333?style=flat)
+![Firmware rehost](https://img.shields.io/badge/-Firmware_rehost-333333?style=flat)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse_engineering-333333?style=flat)
+![Instrumentation](https://img.shields.io/badge/-Instrumentation-333333?style=flat)
 
 
 ### ⭐️ &nbsp;Github Star
