@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 ### 🛠 &nbsp;Tech Stack
-![Fuzzing](https://img.shields.io/badge/-Fuzzing-333333?style=flat&logo=Fuzzing)
+![Fuzzing](https://img.shields.io/badge/-Fuzzing-brightgreen?style=flat&logo=javascript)
 ![Taint analysis](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Symbolic execution](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Firmware rehost](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/liupuz/count.svg" />
-
 
 
 
